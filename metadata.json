@@ -1,0 +1,5 @@
+{
+  "name": "Livro Caixa Digital do Produtor Rural",
+  "description": "An intelligent digital cashbook for rural producers. This application leverages the Gemini API to automatically read and classify financial documents (XMLs, PDFs), generate insightful monthly reports, analyze cattle transfers with a specialized agent, and provide a comprehensive financial dashboard.",
+  "requestFramePermissions": []
+}
